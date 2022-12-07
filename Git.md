@@ -21,6 +21,23 @@ git status
 
 
 
+## git remote
+
+check
+
+```bash
+git remote -v
+```
+
+update url:
+
+```bash
+git remote set-url origin git@github.com:username/repo.git
+
+```
+
+
+
 ## commit & push
 
 ```bash
